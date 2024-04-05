@@ -60,7 +60,7 @@ function Projects() {
           </div>
 
           <div className="card">
-            <button className="project-number-btn">3</button>
+            <button className="project-number-btn">2</button>
             <div className="card-top">
               <div className="card-image">
                 <img
@@ -87,7 +87,7 @@ function Projects() {
                   <div className="card-buttons">
                     {/* <a href="" className='card-btn current' target="_blank">Current page</a> */}
                     <a
-                      href="https://github.com/shrutipandey/shrutipandey.github.io"
+                      href="https://github.com/shrutipandey15/Portfolio"
                       className="card-btn"
                       target="_blank"
                       rel="noreferrer"
